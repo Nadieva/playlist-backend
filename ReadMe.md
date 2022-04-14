@@ -21,7 +21,7 @@ Please follow the instructions in your terminal to use the application:
 ## Endpoint
 
 - The local endpoint is: http://localhost:5000/api/songs
-- The remote endpoint is : https://playlistbackend.herokuapp.com/api/songs
+- The remote endpoint is : https://playlistbackend.herokuapp.com/api/songs [THE WEBSITE IS NOT WORKING]
 
 ### GET request
 
