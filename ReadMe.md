@@ -7,7 +7,7 @@ The project is made of two parts:
 - [frontend](https://github.com/Nadieva/playlist-frontend)
 - [backend](https://github.com/Nadieva/playlist-backend)
 
-**Note: The database is MongoDB Atlas.**
+**Note: The database is MongoDB Atlas.You might create your MongoDB Database if you use my code locally**
 
 ## How to use it
 
@@ -21,7 +21,7 @@ Please follow the instructions in your terminal to use the application:
 ## Endpoint
 
 - The local endpoint is: http://localhost:5000/api/songs
-- The remote endpoint is : https://playlistbackend.herokuapp.com/api/songs [THE WEBSITE IS NOT WORKING]
+- The remote endpoint is : https://playlistbackend.herokuapp.com/api/songs
 
 ### GET request
 
